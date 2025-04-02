@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khurt124
+- 👋 Hi, I’m @KhurtDhan
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Web Development
 
